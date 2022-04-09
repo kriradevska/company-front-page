@@ -149,16 +149,4 @@ body {
     padding-top: 0.35em;
   }
   
-  
- @media only screen and (max-width: 600px) {
-    .treatment_box div {
-        max-width: 100%; 
-        font-size: 2.5em;
-    }
-    
-    h2 {
-      font-size: 5em;
-    }
-  }
-  
-  
+ 
