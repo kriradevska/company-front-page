@@ -12,7 +12,7 @@ This project is part of Codecademy full-stack course.
 ### Technologies
 + HTML
 + CSS
-+ The project is buolt on Codecademy platform
++ The project is built on Codecademy platform
 
 ### Launch
 Could be launch with a standard browser.
