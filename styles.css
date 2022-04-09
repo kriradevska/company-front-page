@@ -11,7 +11,7 @@ body {
   }
   
   .logo img {
-    height: 2.7em;
+    height: 100%;
     width: auto;
     align-self: center;
   }
@@ -149,4 +149,9 @@ body {
     padding-top: 0.35em;
   }
   
- 
+ @media only screen and (max-width: 600px) {
+  .treatment_box div {
+    max-width: 100%;
+    flex-direction: column;
+  }
+ }
